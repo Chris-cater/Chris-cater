@@ -6,6 +6,6 @@
 
 
 <!---
-Chris-cater/Chris-cater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Chris-cater/Chris-cater the professional tips
 --->
+---> great news 
